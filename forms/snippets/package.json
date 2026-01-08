@@ -11,7 +11,7 @@
   "dependencies": {
     "@google-cloud/local-auth": "catalog:",
     "@googleapis/drive": "catalog:",
-    "@googleapis/forms": "catalog:",
+    "@googleapis/forms": "5.0.0",
     "googleapis": "catalog:"
   },
   "devDependencies": {
